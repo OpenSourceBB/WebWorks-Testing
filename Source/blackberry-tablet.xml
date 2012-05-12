@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><qnx>
+      <author>scrapps</author>
+      <category>core.all</category>
+      <icon>
+            <image>img/icon.png</image>
+      </icon>
+      <splashscreen>img/splashscreen.jpg:img/splashscreen_portrait.jpg</splashscreen> 
+<action>access_internet</action>
+<action>access_shared</action>
+</qnx>

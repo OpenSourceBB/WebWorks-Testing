@@ -1,0 +1,8 @@
+One of the amazing thing about WebWorks is the versatility of HTML5. You can buy an expensive WYSIWYG editor, or you can code your documents in the Windows notepad or gedit or any other notepad program. Once the code is written, you can test it in probably hundreds, if not thousands, of browsers.
+The WebWorks Testing app is just one more place for you to test your app, and probably one of the final testing spots before you deploy it to your BlackBerry PlayBook or BB10 device.
+
+Setup:
+Create your testing files. Access the filesystem of your PlayBook or BB10 device, and create a folder called "Testing" in the /misc folder.
+Put your html, css, js, etc. files into the Testing folder. WebWorks-Testing requires you to name the file you wish to initially test "index.html" but this can be changed by modifying the config.xml.
+Compile the WebWorks Testing source into an app and sideload it. You can also sideload the precompiled .bar if you don't want to compile it.
+That's it. You can test your WebWorks apps by just launching the WebWorks Testing app.

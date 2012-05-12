@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.0.0.0">
+  <name>WebWorks Testing</name>
+  <description>For testing WebWorks Apps</description>
+  <author href="http://www.twitter.com/BBSCrApps/" rim:copyright="Copyright 2010-2011 SCrApps">SCrApps</author>
+  <access subdomains="true" uri="*"/>
+  <content src="file:///accounts/1000/shared/misc/Testing/index.html"/>
+  <feature id="blackberry.io.file" />
+  <rim:permit>access_shared</rim:permit>
+  <rim:permit>read_geolocation</rim:permit>
+  
+</widget>
